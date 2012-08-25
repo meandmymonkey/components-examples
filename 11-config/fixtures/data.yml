@@ -1,0 +1,3 @@
+config:
+  foo: [apples, oranges, bananas]
+  bar: true

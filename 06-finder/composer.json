@@ -1,0 +1,11 @@
+{
+    "require": {
+        "symfony/finder": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Demo": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}

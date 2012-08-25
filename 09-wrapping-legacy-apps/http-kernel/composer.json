@@ -1,0 +1,12 @@
+{
+    "require": {
+        "symfony/routing": "*",
+        "symfony/http-kernel": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Demo": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}

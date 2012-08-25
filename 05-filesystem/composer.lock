@@ -1,0 +1,25 @@
+{
+    "hash": "a06d13bb572f1d8627b5b1cc885e024e",
+    "packages": [
+        {
+            "package": "symfony/filesystem",
+            "version": "dev-master",
+            "alias-pretty-version": "2.1.x-dev",
+            "alias-version": "2.1.9999999.9999999-dev"
+        },
+        {
+            "package": "symfony/filesystem",
+            "version": "dev-master",
+            "source-reference": "72acf65c2390c9066e1174d269a4e146ffad9296",
+            "commit-date": "1344875591"
+        }
+    ],
+    "packages-dev": null,
+    "aliases": [
+
+    ],
+    "minimum-stability": "dev",
+    "stability-flags": [
+
+    ]
+}

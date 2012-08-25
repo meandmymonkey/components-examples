@@ -1,0 +1,11 @@
+{
+    "require": {
+        "symfony/console": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Demo": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}

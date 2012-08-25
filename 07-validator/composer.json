@@ -1,0 +1,12 @@
+{
+    "require": {
+        "symfony/validator": "*",
+        "doctrine/common":   ">=2.1,<2.4-dev"
+    },
+    "autoload": {
+        "psr-0": {
+            "Demo": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
